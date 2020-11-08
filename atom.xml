@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>保温杯的小栈</title>
+  <icon>https://fuckzuoye.ga/icon.png</icon>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://fuckzuoye.ga/"/>
+  <updated>2020-11-08T05:24:43.055Z</updated>
+  <id>https://fuckzuoye.ga/</id>
+  
+  <author>
+    <name>保温杯</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>如何给pip换个源</title>
+    <link href="https://fuckzuoye.ga/2020/11/06/post5/"/>
+    <id>https://fuckzuoye.ga/2020/11/06/post5/</id>
+    <published>2020-11-06T18:38:50.000Z</published>
+    <updated>2020-11-08T05:24:43.055Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="pip" scheme="https://fuckzuoye.ga/tags/pip/"/>
+    
+      <category term="python" scheme="https://fuckzuoye.ga/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何给使用虚拟机#2 之安装Windows系统</title>
+    <link href="https://fuckzuoye.ga/2020/08/29/post4/"/>
+    <id>https://fuckzuoye.ga/2020/08/29/post4/</id>
+    <published>2020-08-29T20:32:10.000Z</published>
+    <updated>2020-11-08T05:24:43.055Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="虚拟机" scheme="https://fuckzuoye.ga/tags/%E8%99%9A%E6%8B%9F%E6%9C%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何解决Hexo推送失败</title>
+    <link href="https://fuckzuoye.ga/2020/07/07/post3/"/>
+    <id>https://fuckzuoye.ga/2020/07/07/post3/</id>
+    <published>2020-07-07T20:37:12.000Z</published>
+    <updated>2020-11-08T05:24:43.055Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="网站" scheme="https://fuckzuoye.ga/tags/%E7%BD%91%E7%AB%99/"/>
+    
+      <category term="hexo" scheme="https://fuckzuoye.ga/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何使用虚拟机#1 之安装虚拟机软件</title>
+    <link href="https://fuckzuoye.ga/2020/04/29/post2/"/>
+    <id>https://fuckzuoye.ga/2020/04/29/post2/</id>
+    <published>2020-04-29T14:19:09.000Z</published>
+    <updated>2020-11-08T05:24:43.055Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="虚拟机" scheme="https://fuckzuoye.ga/tags/%E8%99%9A%E6%8B%9F%E6%9C%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何在console输出特殊字符图案</title>
+    <link href="https://fuckzuoye.ga/2020/04/25/post1/"/>
+    <id>https://fuckzuoye.ga/2020/04/25/post1/</id>
+    <published>2020-04-25T20:01:33.000Z</published>
+    <updated>2020-11-08T05:24:43.055Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
